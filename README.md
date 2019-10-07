@@ -34,5 +34,5 @@ pip install -r requirements.txt
 
 
 ## Experiments
-To run the experiments, refer the python package `extl.experiments`
+To run the experiments, refer the python files in `extl.experiments`
 
