@@ -1,0 +1,15 @@
+cython
+pandas
+matplotlib
+seaborn
+numpy
+scipy
+scikit-learn
+scikit-image
+tensorboard
+tensorboardx
+torch
+torchvision
+untangle
+textblob
+joblib
