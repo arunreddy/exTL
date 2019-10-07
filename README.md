@@ -32,6 +32,8 @@ pip install -r requirements.txt
 
 ## Dataset
 
+Download the dataset from google drive. Extract the contents to dataset directory.
+
 
 ## Experiments
 To run the experiments, refer the python files in `extl.experiments`
