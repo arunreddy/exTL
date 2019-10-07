@@ -1,4 +1,4 @@
-# extl
+# exTL
 
 Transfer learning refers to the problem of learning and transferring knowledge from a source domain to a new target domain. It has been successfully applied to solve a wide variety of real-world problems. However, due to the difference in data distribution between the source and target domains, existing explanation techniques cannot be readily applied to interpret the transfer learning models. In other words, the key challenge here is how to provide the explanation for the predictive model in the target domain using the information obtained from the source domain (e.g., the influence of examples, relevance of features).
 
