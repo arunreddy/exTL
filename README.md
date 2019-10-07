@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-Download the dataset from google drive. Extract the contents to dataset directory.
+Download the dataset from [google drive](https://drive.google.com/file/d/1RuKiPQaiW-aNboE8-YmQltWzOqJMGQAf/view?usp=drivesdk). Extract the contents to dataset directory.
 
 
 ## Experiments
